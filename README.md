@@ -1,1 +1,1 @@
-# Mta-0x-Reverse
+0x, the most well-known trick of MTA, is an attempt to organize it in reverse. Those who do not know what to do should not touch it at all. There are a few things in it that will be useful for those who are considering making an MTA Project.
